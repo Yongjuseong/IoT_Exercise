@@ -1,2 +1,2 @@
 # IoT_Exercise
-Iot programming by using raspberrypi3 and Python
+Iot programming by using Raspberry Pi3 and Python
